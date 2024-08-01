@@ -4,6 +4,10 @@
 
 This project aims to predict stock prices using historical data. The focus is on creating a model that can predict the closing prices of stocks, which is crucial for making informed trading decisions. The project leverages machine learning techniques, specifically Long Short-Term Memory (LSTM) networks, to model the time series data of stock prices.
 
+### Dataset 
+
+here's the dataset that is used in the project: https://www.kaggle.com/datasets/luisandresgarcia/stock-market-prediction
+
 ### Technologies Used
 
 - **Python**: Programming language
